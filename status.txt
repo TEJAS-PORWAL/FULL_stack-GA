@@ -1,0 +1,10 @@
+LEFTOUT:
+adding logic for the search  bar
+adding logic for the 3 buttons in card
+linking of the database
+analytics tab to be added
+
+COMPLETED:
+routers is configured for all the paths
+database is generated
+links are connected properly

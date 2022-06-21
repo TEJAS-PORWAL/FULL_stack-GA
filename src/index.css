@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Tai+Heritage+Pro&display=swap');
+
+body{
+  font-family: 'Tai Heritage Pro', serif!important;
+  background-color: #51aea0 !important;
+} 
+
+.contact-img{
+  width : 150px;
+  height: 150px;
+  border-radius: 50%;
+
+}
